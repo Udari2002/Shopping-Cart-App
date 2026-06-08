@@ -12,7 +12,7 @@ connectDB();
 const sampleProducts = [
   {
     name: 'Fresh Organic Carrots',
-    image: 'https://images.unsplash.com/photo-1598170845058-32b996a69f76?w=500&q=80',
+    image: 'https://images.unsplash.com/photo-1598170845058-32b996a69f76?auto=format&fit=crop&w=500&q=80',
     price: 2.50,
     category: 'Vegetables',
     description: 'Crunchy, sweet, and packed with nutrients. Perfect for salads or cooking.',
@@ -33,7 +33,7 @@ const sampleProducts = [
   },
   {
     name: 'Premium Chocolate Chip Biscuits',
-    image: 'https://images.unsplash.com/photo-1499636136210-6f4ce9127154?w=500&q=80',
+    image: 'https://images.unsplash.com/photo-1558961317-194342a086cd?auto=format&fit=crop&w=500&q=80',
     price: 1.80,
     category: 'Biscuits',
     description: 'Classic crunchy biscuits loaded with real milk chocolate chips.',
